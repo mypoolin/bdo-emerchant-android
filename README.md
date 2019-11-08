@@ -7,7 +7,7 @@ application, we shall enable online application for both existing and potential 
 information and submit required documents through the mobile app. Through this same mobile app, the merchant shall get
 an instanteous response to his application status inquiry.
 
-# Prerequisites
+## Prerequisites
 
 - Android SDK v24
 - Latest Android Build Tools
