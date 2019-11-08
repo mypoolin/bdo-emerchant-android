@@ -21,6 +21,11 @@ In Android Studio, use the "Import non-Android Studio project" or "Import Projec
 
 Alternatively use the "gradlew build" command to build the project directly.
 
+## App Permissions
+
+The first time you open the app, it will ask you to give some permissions to the app. The permissions and the reason why we need the is the following:
+-	Camera: This permission is compulsory because it uses to capture the KYC details of the merchant.
+
 # Usage 
 {description and screenshots}
 
